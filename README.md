@@ -12,3 +12,8 @@ For learning about git and how to use it in a team based setting.
 
 Issue: working changes are lost.
 
+
+====
+
+Here are the new changes... These will be stashed.
+
